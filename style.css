@@ -1,0 +1,35 @@
+h1 {
+    font-family: cursive;
+    font-size: 10.5rem;
+    margin-left:550;
+    color:lightgreen
+}
+img{
+    margin-left:500;
+    flex-direction: column;
+}
+#earth {
+margin-left: 0;
+}
+#earth1 {
+    margin-left:0;
+}
+p{
+    font-size:6.5rem;
+    margin-left:700;
+}
+body{
+    background-color:lightgreen
+}
+button{
+    font-size: 6.5rem;
+    margin-left: 700;
+    padding:10px;
+    background-color:darkolivegreen
+}
+button:hover{
+    font-size: 6.5rem;
+    margin-left: 700;
+    padding:10px;
+    background-color:sienna
+}
