@@ -1,35 +1,43 @@
 h1 {
     font-family: cursive;
-    font-size: 10.5rem;
-    margin-left:550;
+    font-size: 3.5rem;
+    margin-left:400;
     color:lightgreen
+}
+h2{
+    font-family: cursive;
+    font-size: 2.5rem;
+    margin-left:150;
+    color:lightgreen
+}
+h3{
+    font-family: cursive;
+    font-size: 2.0rem;
+    margin-left:120;
+    color:bisque
 }
 img{
     margin-left:500;
     flex-direction: column;
 }
-#earth {
-margin-left: 0;
-}
-#earth1 {
-    margin-left:0;
-}
 p{
-    font-size:6.5rem;
-    margin-left:700;
+    font-size:2.5rem;
+    margin-left:400;
+    color:aliceblue;
+    font-family:Georgia, 'Times New Roman', Times, serif;
 }
 body{
-    background-color:lightgreen
+    background-image:url("https://i.pinimg.com/1200x/f4/66/85/f46685b01fe4362f69e8c93daabd3c26.jpg")
 }
 button{
-    font-size: 6.5rem;
-    margin-left: 700;
+    font-size: 4.5rem;
+    margin-left: 200;
     padding:10px;
     background-color:darkolivegreen
 }
 button:hover{
-    font-size: 6.5rem;
-    margin-left: 700;
+    font-size: 4.5rem;
+    margin-left: 200;
     padding:10px;
     background-color:sienna
 }
